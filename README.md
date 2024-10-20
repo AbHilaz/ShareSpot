@@ -1,0 +1,2 @@
+# ShareSpot
+ Mini Project 
